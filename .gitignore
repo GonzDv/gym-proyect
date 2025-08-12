@@ -1,0 +1,22 @@
+# Ignorar dependencias de Node
+/node_modules
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de compilación de frontend
+/frontend/dist
+
+# Ignorar archivos de log
+npm-debug.log*
+yarn-debug.log*
+.log
+
+# Ignorar archivos temporales
+.DS_Store
+
+# Ignorar archivos de configuracion de IDE
+.vscode/
+
+# Ignorar carpetas del backend
+/backend/node_modules
